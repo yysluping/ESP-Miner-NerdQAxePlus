@@ -1,3 +1,4 @@
-After decompressing
-1. Connect USB Type-C
-2. running NerdQAxe++-1.0.33.exe automatically updates firmware
+YYSLUPING products information
+1. v1.0.32.1
+2. v1.0.33
+3. v1.0.34(latest)
